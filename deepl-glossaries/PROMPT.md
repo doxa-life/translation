@@ -51,8 +51,8 @@ Plain TSV (tab-separated), one entry per line: `english_term[TAB]target_term`. N
 
 Extract all English source terms from these two reference files:
 
-1. **`i18n/glossary-candidates-ai.md`** — the master glossary with definitions, site examples, and translation guidance for every term. Generate a translation for every term listed in this document.
-2. **`i18n/glossaries/fr.tsv`** — the French reference implementation. Use this as a structural template: your output should cover the same terms in the same TSV format.
+1. **`glossary.md`** — the master glossary with definitions, site examples, and translation guidance for every term. Generate a translation for every term listed in this document.
+2. **`deepl-glossaries/fr.tsv`** — the French reference implementation. Use this as a structural template: your output should cover the same terms in the same TSV format.
 
 ## Validation checklist
 
@@ -71,7 +71,7 @@ Before finalizing, verify each entry against these checks:
 
 ## Reference
 
-The full glossary source with definitions, site examples, and translation guidance is in `i18n/glossary-candidates-ai.md`. The French glossary (`i18n/glossaries/fr.tsv`) serves as a reference implementation.
+The full glossary source with definitions, site examples, and translation guidance is in `glossary.md`. The French glossary (`deepl-glossaries/fr.tsv`) serves as a reference implementation.
 ```
 
 ---
