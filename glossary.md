@@ -24,10 +24,6 @@ note: >
 
 # Doxa.Life Glossary Candidates — AI Analysis
 
-> **How to use**: Review each term top to bottom. For terms you want to
-> keep, add them to `resources/doxa-glossary.md` with expanded meaning/usage
-> notes and translation guidance in each target language.
-
 ---
 
 ## 1. People-group terminology
