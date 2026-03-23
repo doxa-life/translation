@@ -88,7 +88,7 @@ traductions doivent reproduire ces seuils intégralement.
 
 ---
 
-### Groupe de peuples non engagé et non atteint (UUPG)
+### Groupe de peuples non ciblé et non atteint (UUPG)
 
 - **Signification** : La catégorie combinée — non atteint ET dépourvu des
   quatre niveaux d'engagement effectif. La page Recherche utilise « Trouver un
@@ -473,14 +473,16 @@ traductions doivent reproduire ces seuils intégralement.
 ### Adopter (un groupe de peuples sans engagement missionnaire) ★ Terme fondateur
 
 - **Signification** : Un engagement formel et à long terme, mené par une
-  église, de prier, donner et envoyer afin que l'accès à l'Évangile commence
+  église locale, de prier, donner et envoyer afin que l'accès à l'Évangile commence
   pour un groupe de peuples sans engagement missionnaire spécifique.
-- **Exemple** : « Un engagement d'église pour prier, donner et envoyer afin
+- **Exemple** : « Un engagement d'église locale pour prier, donner et envoyer afin
   que l'accès à l'Évangile commence » (page Adopter)
 - **Pourquoi c'est important** : Éviter le langage de l'adoption familiale ou
   juridique (enfants, garde légale). Le concept est celui d'un *parrainage
-  missionnaire / engagement stratégique* — une église prend la responsabilité
-  stratégique de l'engagement d'un groupe de peuples.
+  missionnaire / engagement stratégique* — une église locale prend la responsabilité
+  stratégique de l'engagement d'un groupe de peuples. Utiliser « église locale »
+  ou « assemblée locale » plutôt que simplement « église », ce dernier pouvant
+  désigner une dénomination plutôt qu'une congrégation locale.
 
 ---
 

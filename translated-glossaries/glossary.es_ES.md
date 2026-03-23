@@ -85,17 +85,16 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Grupo de pueblos sin alcance misionero y no alcanzado (UUPG)
+### pueblo no alcanzado no comprometido (PNANC)
 
 - **Significado**: La categoría combinada — no alcanzado Y que carece de los
   cuatro niveles de involucramiento efectivo. La página de investigación
-  utiliza "Busca un UUPG" como etiqueta de interfaz.
-- **Ejemplo**: "Oración diaria por cada uno de los 2.085 UUPGs" (página de
+  utiliza "Busca un PNANC" como etiqueta de interfaz.
+- **Ejemplo**: "Oración diaria por cada uno de los 2.085 PNANCs" (página de
   Visión)
-- **Por qué importa**: UUPG es una sigla establecida en las misiones globales.
-  Mantener una sigla equivalente estable (p. ej., "UUPG") o una frase
-  utilizada consistentemente en cada idioma, para alinearse con las
-  herramientas internacionales de oración.
+- **Por qué importa**: PNANC (pueblo no alcanzado no comprometido) es la sigla
+  equivalente en español de UUPG. Mantener esta sigla de forma consistente
+  en todo el sitio para alinearse con las herramientas internacionales de oración.
 
 ---
 
@@ -376,9 +375,9 @@ preservar esos umbrales íntegros.
 ### Cobertura de oración de 24 horas
 
 - **Significado**: El objetivo de tener al menos 144 intercesores orando cada
-  10 minutos al día por un UUPG específico, lo que en conjunto suma 24 horas
+  10 minutos al día por un PNANC específico, lo que en conjunto suma 24 horas
   de oración diaria.
-- **Ejemplo**: "Al menos 144 intercesores orando por cada UUPG 10 minutos al
+- **Ejemplo**: "Al menos 144 intercesores orando por cada PNANC 10 minutos al
   día (lo que equivale a cobertura de oración de 24 horas)" (página de Visión)
 - **Por qué importa**: La lógica matemática debe ser traducible. Evitar que
   "cobertura" se interprete como seguro o cobertura legal; significa *oración
@@ -388,8 +387,8 @@ preservar esos umbrales íntegros.
 
 ### Intercesor / intercesores
 
-- **Significado**: Una persona que se compromete a orar en nombre de un UUPG.
-  Meta: 144+ por UUPG (para cobertura de 24 horas), luego 1.000+ por UUPG.
+- **Significado**: Una persona que se compromete a orar en nombre de un PNANC.
+  Meta: 144+ por PNANC (para cobertura de 24 horas), luego 1.000+ por PNANC.
 - **Ejemplo**: "Levantar 144+ intercesores diarios para orar 10 minutos al
   día." (página de Adoptar)
 - **Por qué importa**: Usar el término eclesiástico establecido para intercesor
@@ -716,12 +715,12 @@ preservar esos umbrales íntegros.
 
 ### World Assemblies of God Fellowship (WAGF)
 
-- **Significado**: La fraternidad global que fundó y administra Doxa.Life.
+- **Significado**: La fraternidad mundial que fundó y administra Doxa.Life.
   Comprende 129 agencias enviadoras afiliadas (a partir de 2026).
 - **Ejemplo**: "DOXA fue fundado y es administrado por la World Assemblies of
   God Fellowship (WAGF)" (página Acerca de)
 - **Por qué importa**: Es un nombre propio — no traducir. Añadir una breve
-  frase explicativa si es necesario ("fraternidad global de las Asambleas de
+  frase explicativa si es necesario ("Fraternidad Mundial de las Asambleas de
   Dios"). La sigla WAGF debe mantenerse consistente en todo el sitio.
 
 ---
@@ -817,7 +816,7 @@ fundamental para la usabilidad.
 | **Orar** | Navegación principal + título de página + paso de acción | Mantener corto; modo imperativo |
 | **Adoptar** | Navegación principal + título de página | Ver entrada "Adoptar" — evitar lenguaje de adopción de niños |
 | **Involúcrate** | Llamada a la acción de la página de inicio | Sentido activo/misionero; no "interactúa" |
-| **Investigar** | Navegación principal | Herramienta "Busca un UUPG" — usar palabra para "buscar/explorar" |
+| **Investigar** | Navegación principal | Herramienta "Busca un PNANC" — usar palabra para "buscar/explorar" |
 | **Acerca de** | Navegación principal | "Sobre nosotros" estándar — usar equivalente local natural |
 | **Recursos** | Submenú de Acerca de | Herramientas/materiales ministeriales — no "recursos financieros" |
 | **Definiciones** | Submenú de Acerca de | Página de glosario/definiciones |
@@ -828,7 +827,7 @@ fundamental para la usabilidad.
 | **Regístrate** | Paso 2 de Orar | Suscribirse/registrarse para los puntos de oración diarios |
 | **Guía de oración diaria** | Página de Orar | El recurso devocional por correo electrónico |
 | **Cobertura de Oración de 24 Horas** | Orar y Adoptar | Ver entrada completa arriba |
-| **Meta de Adopción / Estado Actual** | Estadísticas de la página de Adoptar | Progreso hacia la adopción de los 2.085 UUPGs |
+| **Meta de Adopción / Estado Actual** | Estadísticas de la página de Adoptar | Progreso hacia la adopción de los 2.085 PNANCs |
 | **Cómo Funciona la Adopción** | Página de Adoptar | Encabezado de sección paso a paso |
 | **Por qué importa la adopción** | Página de Adoptar | Encabezado de sección motivacional |
 | **Por qué importa la oración** | Página de Orar | Encabezado de sección motivacional |

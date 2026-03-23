@@ -725,8 +725,8 @@ preservar esses limiares intactos.
 - **Exemplo**: "A DOXA foi fundada e é tutelada pela World Assemblies of
   God Fellowship (WAGF)" (página Sobre Nós)
 - **Porque importa**: Um nome próprio — não traduzir. Acrescentar uma
-  breve frase explicativa se necessário ("comunhão global das Assembleias
-  de Deus"). A sigla WAGF deve ser mantida consistente em todo o sítio.
+  breve frase explicativa se necessário ("Comunhão das Assembléias de Deus
+  Mundial"). A sigla WAGF deve ser mantida consistente em todo o sítio.
 
 ---
 
