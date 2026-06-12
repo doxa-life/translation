@@ -30,7 +30,7 @@ note: >
 
 ---
 
-## 1. Terminología de grupos de personas
+## 1. Terminología de grupos étnicos
 
 Estos son los términos con mayor precisión definitoria del sitio. La página de
 **Definiciones** establece umbrales numéricos exactos; las traducciones deben
@@ -38,7 +38,7 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Grupo de personas ★ Término clave
+### Grupo étnico ★ Término clave
 
 - **Definición del sitio**: "Un grupo etnolingüístico cuyos miembros perciben
   entre sí una afinidad común basada en el idioma, la cultura, la religión y
@@ -46,17 +46,17 @@ preservar esos umbrales íntegros.
   puede extenderse como un movimiento de plantación de iglesias viable y
   autóctono sin encontrar barreras de comprensión o aceptación." (página de
   Definiciones)
-- **Ejemplo**: "2.085 grupos de personas no comprometidos" (titular de la
+- **Ejemplo**: "2.085 grupos étnicos no comprometidos" (titular de la
   página de inicio)
 - **Por qué importa**: Esta es la unidad fundamental de medición de todo el
-  sitio. El concepto es étnico-lingüístico, no político — "grupo de personas"
+  sitio. El concepto es étnico-lingüístico, no político — "grupo étnico"
   no debe traducirse como "estado-nación", "tribu" (con connotaciones
   primitivas) ni "grupo social". Una traducción imprecisa invalida todas las
   estadísticas.
 
 ---
 
-### Grupo de personas no alcanzado ★ Término clave
+### Grupo étnico no alcanzado ★ Término clave
 
 - **Definición del sitio**: "Tiene aproximadamente 2 discípulos o menos de
   cada 100 (≤ 2%) y carece de obreros transculturales que puedan alcanzarlo
@@ -69,43 +69,47 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Grupo de personas no comprometido ★ Término clave
+### Grupo étnico no comprometido ★ Término clave
 
-- **Definición del sitio**: Un grupo de personas sin creyentes conocidos o con
+- **Definición del sitio**: Un grupo étnico sin creyentes conocidos o con
   muy pocos, y que carece de los cuatro niveles primarios de compromiso
   efectivo (esfuerzo apostólico residente; compromiso con la cultura local y el
   idioma del corazón; compromiso ministerial a largo plazo; siembra del
   evangelio orientada a un MPI). (página de Definiciones)
-- **Ejemplo**: "2.085 grupos de personas no comprometidos" / "Los grupos
-  de personas no comprometidos no tienen misioneros, ni iglesias, y a
+- **Ejemplo**: "2.085 grupos étnicos no comprometidos" / "Los grupos
+  étnicos no comprometidos no tienen misioneros, ni iglesias, y a
   menudo no tienen creyentes conocidos." (página de Adoptar)
-- **Por qué importa**: "Grupo de personas no comprometido" es un término técnico que
+- **Por qué importa**: "Grupo étnico no comprometido" es un término técnico que
   significa *sin trabajo activo de plantación de iglesias*, no "socialmente
   desconectado" ni "emocionalmente indiferente". Una traducción incorrecta
-  oscurece la urgencia de todo el llamado a la acción del sitio.
+  oscurece la urgencia de todo el llamado a la acción del sitio. En el primer
+  uso, conviene explicar el sentido técnico; en etiquetas breves de interfaz,
+  mantener una forma concisa para no sobrecargar el espacio disponible.
 
 ---
 
-### Grupo de personas no alcanzado ni comprometido (PNANC)
+### Grupo étnico no alcanzado no comprometido (GENANC)
 
 - **Significado**: La categoría combinada — no alcanzado Y que carece de los
-  cuatro niveles de compromiso efectivo. La página de investigación
-  utiliza "Busca un PNANC" como
-  etiqueta de interfaz.
-- **Ejemplo**: "Oración diaria por cada uno de los 2.085 PNANCs" (página de Visión)
+  cuatro niveles de compromiso efectivo. La página de investigación utiliza
+  "Busca un GENANC" como etiqueta de interfaz.
+- **Ejemplo**: "Oración diaria por cada uno de los 2.085 GENANC" (página de Visión)
 - **Por qué importa**: UUPG es una sigla establecida en misiones globales.
-  Mantener PNANC (grupo de personas no alcanzado ni comprometido) como sigla
-  estable en español para alinearse con las herramientas internacionales de oración.
+  Mantener GENANC (grupo étnico no alcanzado no comprometido) como sigla
+  estable en español para alinearse con las herramientas internacionales de
+  oración. Como término técnico o expansión de la sigla, usar la forma sin "y";
+  en una frase descriptiva normal, "grupo étnico no alcanzado y no
+  comprometido" puede leerse de forma más natural.
 
 ---
 
-### Grupo de personas poco comprometido ★ Término clave
+### Grupo étnico poco comprometido ★ Término clave
 
 - **Definición del sitio**: "Tiene aproximadamente 1 discípulo o menos de cada
   100 (≤ 1%). Se necesitan más equipos de plantación de iglesias para aumentar
   el compromiso fructífero." (página de Definiciones)
 - **Ejemplo**: "Compromiso fructífero entre los grupos fronterizos y los
-  grupos de personas poco comprometidos" (página de inicio)
+  grupos étnicos poco comprometidos" (página de inicio)
 - **Por qué importa**: La forma compuesta aparece de manera consistente.
   Transmitir que el trabajo ha comenzado pero es *insuficiente en escala* —
   no que el pueblo mismo sea indiferente.
@@ -121,7 +125,7 @@ preservar esos umbrales íntegros.
   no creyentes." (página de Definiciones)
 - **Ejemplo**: "Compromiso fructífero entre los grupos fronterizos"
   (meta de la página de inicio)
-- **Por qué importa**: "Fronterizo" indica el extremo missiológico — los más
+- **Por qué importa**: "Fronterizo" indica el extremo misionológico — los más
   no alcanzados entre los no alcanzados. Evitar connotaciones militares donde
   sean culturalmente sensibles; preservar el sentido del "primer" contacto
   con el evangelio.
@@ -144,14 +148,14 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Compromiso / comprometido (grupo de personas)
+### Compromiso / comprometido (grupo étnico)
 
 - **Definición del sitio** (página de Visión — "¿Qué es el Compromiso?"):
   "Existe actividad sostenida para compartir a Cristo y hacer discípulos; hay
   esfuerzos para establecer iglesias autosustentables; el trabajo ocurre de
-  maneras culturalmente apropiadas y localmente relevantes." Para WAGF: los
+  maneras culturalmente apropiadas y localmente relevantes." Para la FMAD: los
   obreros transculturales son residentes.
-- **Ejemplo**: "Involucrar a todos los grupos de personas no comprometidas para
+- **Ejemplo**: "Comprometer a todos los grupos étnicos no comprometidos para
   2033" (Prioridad)
 - **Por qué importa**: "Compromiso" es un término de precisión —
   residente, sostenido, transcultural, orientado al MPI. Una traducción vaga
@@ -166,7 +170,7 @@ preservar esos umbrales íntegros.
   e iglesias, no solo actividad. Se utiliza en las metas de la página de inicio
   y en la declaración de la página Acerca de.
 - **Ejemplo**: "Compromiso fructífero, a largo plazo y residencial de los
-  grupos de personas no comprometidos del mundo" (Sending Summit Declaration)
+  grupos étnicos no comprometidos del mundo" (Sending Summit Declaration)
 - **Por qué importa**: El calificativo "fructífero" es intencional desde el
   punto de vista teológico y estratégico — distingue la actividad de los
   resultados.
@@ -175,9 +179,9 @@ preservar esos umbrales íntegros.
 
 ### Acceso al evangelio ★ Término clave
 
-- **Significado**: La condición de un grupo de personas que tiene el evangelio
+- **Significado**: La condición de un grupo étnico que tiene el evangelio
   disponible para él — a través de obreros, iglesias o contenido del evangelio.
-  Su *ausencia* es la tragedia definitoria de los grupos de personas no
+  Su *ausencia* es la tragedia definitoria de los grupos étnicos no
   comprometidos.
 - **Ejemplo**: "No tienen acceso al evangelio" (encabezado de la página de
   Adoptar); "Un compromiso liderado por la iglesia de orar, dar y enviar para
@@ -191,7 +195,7 @@ preservar esos umbrales íntegros.
 ### Compromiso con el evangelio ★ Término clave
 
 - **Significado**: La proclamación activa y continua y la vivencia del
-  evangelio entre un grupo de personas; se usa en el contexto de oración
+  evangelio entre un grupo étnico; se usa en el contexto de oración
   ("preparar el camino para el compromiso con el evangelio mediante la
   oración").
 - **Ejemplo**: "Ayuda a preparar el camino para el compromiso con el
@@ -208,8 +212,8 @@ preservar esos umbrales íntegros.
   plantan iglesias, que incluye al menos cuatro corrientes de cuatro
   generaciones espirituales que juntas suman más de 1.000 personas." (página
   de Definiciones)
-- **Ejemplo**: "Movimientos de plantación de iglesias entre cada pueblo no
-  alcanzado en la tierra" (meta de la página de inicio)
+- **Ejemplo**: "Movimientos de plantación de iglesias entre cada grupo étnico
+  no alcanzado en la tierra" (meta de la página de inicio)
 - **Por qué importa**: "Movimiento" implica impulso de auto-multiplicación, no
   una sola planta de iglesia o programa. Las métricas (4 corrientes × 4
   generaciones × 1.000 personas) deben ser traducibles; evitar redacciones que
@@ -219,9 +223,9 @@ preservar esos umbrales íntegros.
 
 ### Iglesia autóctona
 
-- **Significado**: Una iglesia que surge desde dentro del grupo de personas y
+- **Significado**: Una iglesia que surge desde dentro del grupo étnico y
   que es autosustentable y madura en los "cinco autos".
-- **Ejemplo**: "Hay una iglesia autóctona plantada entre cada grupo de personas
+- **Ejemplo**: "Hay una iglesia autóctona plantada entre cada grupo étnico
   en la tierra" (metas de Visión); "carece de la capacidad para establecer
   iglesias autóctonas sin obreros transculturales" (Definiciones)
 - **Por qué importa**: "Autóctona" significa con raíces locales y autogobernada,
@@ -234,18 +238,21 @@ preservar esos umbrales íntegros.
 
 - **Significado**: Los cinco marcadores de una iglesia autóctona madura:
   autogobierno, autosustento, autopropagación, autoteologización y
-  automisiología. (página de Definiciones)
+  automisionología. (página de Definiciones)
 - **Por qué importa**: Este es un marco estándar de misiones. Los traductores
   deben usar equivalentes establecidos si existen en el idioma de destino; si
-  no, cada compuesto con "auto-" necesita una traducción consistente.
+  no, cada compuesto con "auto-" necesita una traducción consistente. Algunos
+  términos, como "automisionología", son técnicos y pueden aparecer sobre todo
+  en documentos fundacionales; cuando se usen en textos para una audiencia más
+  amplia, conviene acompañarlos con una explicación breve.
 
 ---
 
 ### Compromiso residencial / trabajadores residentes
 
-- **Significado**: Obreros transculturales que *viven entre* el grupo de
-  personas (no de forma remota o como visitantes). Un requisito para la
-  definición de compromiso de WAGF.
+- **Significado**: Obreros transculturales que *viven entre* el grupo étnico
+  (no de forma remota o como visitantes). Un requisito para la
+  definición de compromiso de la FMAD.
 - **Ejemplo**: "Los obreros transculturales son residentes" (página de Visión);
   "Esfuerzo apostólico (pionero) en residencia" (página de Definiciones)
 - **Por qué importa**: "Residente" versus "no residente" es una distinción
@@ -257,12 +264,12 @@ preservar esos umbrales íntegros.
 ### Obreros transculturales
 
 - **Significado**: Trabajadores misioneros de una cultura diferente que sirven
-  entre un grupo de personas. Se usa como término preferido en lugar de
+  entre un grupo étnico. Se usa como término preferido en lugar de
   "misionero" en algunos contextos.
 - **Ejemplo**: "carece de la capacidad para establecer iglesias autóctonas sin
   obreros transculturales" (Definiciones)
 - **Por qué importa**: El calificativo "transcultural" es intencional — estos
-  no son obreros del propio grupo. Usar un término que transmita diferencia
+  no son obreros del propio grupo étnico. Usar un término que transmita diferencia
   cultural, no simplemente "extranjero".
 
 ---
@@ -307,7 +314,7 @@ preservar esos umbrales íntegros.
 ### Movimiento hacia Jesús
 
 - **Significado**: Un movimiento colectivo y multiplicador de personas de un
-  grupo que se vuelven a seguir a Jesús — en contraposición a conversiones
+  grupo étnico que comienzan a seguir a Jesús — en contraposición a conversiones
   aisladas.
 - **Ejemplo**: "Ningún movimiento confirmado y sostenido hacia Jesús"
   (definición de grupo fronterizo)
@@ -322,7 +329,7 @@ preservar esos umbrales íntegros.
 - **Significado**: Iglesias, agencias o individuos que apoyan el
   compromiso desde fuera del campo — mediante oración, donaciones,
   traducción de la Biblia, medios de comunicación, etc.
-- **Ejemplo**: "Los componentes de mayor compromiso incluyen elementos
+- **Ejemplo**: "Los componentes de un compromiso más amplio incluyen elementos
   importantes que pueden ser realizados por asociados no residentes, incluida la
   oración intercesora, la traducción de la Biblia, ministerios de compasión y
   atención ante desastres…" (página de Definiciones)
@@ -331,14 +338,14 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Componentes de mayor compromiso
+### Componentes de un compromiso más amplio
 
 - **Significado**: Los elementos contribuyentes (pero no suficientes por sí
   solos) de la misión que los asociados no residentes pueden realizar: oración
   intercesora, traducción de la Biblia, ministerios de compasión y atención
   ante desastres, alcance mediático, esfuerzos de movilización, capacitación
   de liderazgo, trabajo entre la diáspora.
-- **Ejemplo**: "Los componentes de mayor compromiso incluyen elementos
+- **Ejemplo**: "Los componentes de un compromiso más amplio incluyen elementos
   importantes" (página de Definiciones)
 - **Por qué importa**: Esta lista aclara que la adopción y la oración son
   participación genuina en la misión, incluso sin ir al campo.
@@ -347,12 +354,12 @@ preservar esos umbrales íntegros.
 
 ### Diáspora
 
-- **Significado**: Miembros de un grupo de personas que viven fuera de su
-  tierra natal. Mencionada como componente de los componentes de mayor compromiso.
+- **Significado**: Miembros de un grupo étnico que viven fuera de su
+  tierra natal. Mencionada como componente de un compromiso más amplio.
 - **Ejemplo**: "Trabajo entre la diáspora" (página de Definiciones)
 - **Por qué importa**: A menudo es un préstamo lingüístico en muchos idiomas;
   si es así, puede mantenerse. Aclarar que significa *comunidades dispersas*
-  de un grupo de personas, no refugiados en general.
+  de un grupo étnico, no refugiados en general.
 
 ---
 
@@ -360,12 +367,12 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Oración diaria (por un grupo específico) ★ Término clave
+### Oración diaria (por un grupo étnico específico) ★ Término clave
 
-- **Significado**: El compromiso de orar por un grupo de personas no
+- **Significado**: El compromiso de orar por un grupo étnico no
   comprometido específico todos los días, típicamente usando la guía de oración
   diaria de Doxa.Life.
-- **Ejemplo**: "Elige un grupo de personas no comprometido por el que te
+- **Ejemplo**: "Elige un grupo étnico no comprometido por el que te
   comprometerás a orar diariamente." (página de Orar)
 - **Por qué importa**: "Diaria" es intencional y forma parte del cálculo de
   cobertura de 24 horas. Evitar traducir como "oración regular" u "oración
@@ -376,9 +383,9 @@ preservar esos umbrales íntegros.
 ### Cobertura en oración las 24 horas
 
 - **Significado**: El objetivo de tener al menos 144 intercesores orando cada
-  10 minutos al día por un PNANC específico, lo que en conjunto suma 24 horas
+  10 minutos al día por un GENANC específico, lo que en conjunto suma 24 horas
   de oración diaria.
-- **Ejemplo**: "Al menos 144 intercesores orando por cada PNANC 10 minutos al
+- **Ejemplo**: "Al menos 144 intercesores orando por cada GENANC 10 minutos al
   día (lo que equivale a cobertura de oración de 24 horas)" (página de Visión)
 - **Por qué importa**: La lógica matemática debe ser traducible. Evitar que
   "cobertura" se interprete como seguro o cobertura legal; significa *oración
@@ -388,9 +395,9 @@ preservar esos umbrales íntegros.
 
 ### Intercesor / intercesores
 
-- **Significado**: Una persona que se compromete a orar por un grupo no
-  alcanzado ni comprometido. Meta: 144+ por PNANC (para cobertura de 24 horas),
-  luego 1.000+ por PNANC.
+- **Significado**: Una persona que se compromete a orar por un grupo étnico no
+  alcanzado y no comprometido. Meta: 144+ por GENANC (para cobertura de 24 horas),
+  luego 1.000+ por GENANC.
 - **Ejemplo**: "Levantar 144+ intercesores diarios para orar 10 minutos al
   día." (página de Adoptar)
 - **Por qué importa**: Usar el término eclesiástico establecido para intercesor
@@ -401,8 +408,8 @@ preservar esos umbrales íntegros.
 ### Oración intercesora
 
 - **Significado**: Oración ofrecida en nombre de otros — específicamente por
-  grupos de personas por los que nadie está orando.
-- **Ejemplo**: "Los componentes de mayor compromiso incluyen… oración intercesora"
+  grupos étnicos por los que nadie está orando.
+- **Ejemplo**: "Los componentes de un compromiso más amplio incluyen… oración intercesora"
   (Definiciones)
 - **Por qué importa**: Distinguir de la oración devocional personal; enfatizar
   la dimensión *en nombre de otros*.
@@ -414,14 +421,14 @@ preservar esos umbrales íntegros.
 - **Significado**: El correo electrónico o recurso de contenido diario que
   Doxa.Life envía a los intercesores registrados — que incluye temas de oración
   basados en las Escrituras, necesidades de oración del campo, fotos, historias
-  e información clave sobre el grupo de personas.
+  e información clave sobre el grupo étnico.
 - **Ejemplo**: "Recibe puntos de oración diarios y únete a creyentes de todo
   el mundo en oración" (página de inicio); "Tu guía de oración diaria: temas
   de oración centrados en la Escritura, reflexión y orientación guiadas por el
   Espíritu, necesidades reales de oración del campo, fotos, historias y
-  testimonios, información clave sobre el grupo de personas" (página de Orar)
+  testimonios, información clave sobre el grupo étnico" (página de Orar)
 - **Por qué importa**: La "guía" y los "puntos" son distintos de los
-  devocionales generales — son específicos, enfocados en el grupo de personas y
+  devocionales generales — son específicos, enfocados en el grupo étnico y
   conectados al campo.
 
 ---
@@ -443,9 +450,9 @@ preservar esos umbrales íntegros.
 ### El Señor de la cosecha
 
 - **Significado**: Un título bíblico para Jesús (Mateo 9:38), utilizado en el
-  llamado a orar para que Él envíe obreros a los grupos no comprometidos.
+  llamado a orar para que Él envíe obreros a los grupos étnicos no comprometidos.
 - **Ejemplo**: "Ora con fervor al Señor de la cosecha … que Él envíe obreros a
-  los [grupos no comprometidos]." (página de Orar)
+  los [grupos étnicos no comprometidos]." (página de Orar)
 - **Por qué importa**: Alinearse con la frase establecida de la traducción
   bíblica en el idioma de destino. La metáfora agrícola (mies = personas listas
   para responder) debe mantenerse.
@@ -456,17 +463,17 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Adoptar un grupo de personas no comprometido ★ Término clave
+### Adoptar un grupo étnico no comprometido ★ Término clave
 
 - **Significado**: Un compromiso formal y a largo plazo liderado por una
   iglesia de orar, dar y enviar para que comience el acceso al evangelio para
-  un grupo de personas no comprometido específico.
+  un grupo étnico no comprometido específico.
 - **Ejemplo**: "Un compromiso liderado por la iglesia de orar, dar y enviar
   para que comience el acceso al evangelio" (página de Adoptar)
 - **Por qué importa**: Evitar el lenguaje legal de adopción familiar (niños,
   custodia legal). El concepto es *patrocinio/compromiso misional* — una
-  iglesia asume responsabilidad estratégica por el compromiso con un grupo de
-  personas.
+  iglesia asume responsabilidad estratégica por el compromiso con un grupo
+  étnico.
 
 ---
 
@@ -501,8 +508,8 @@ preservar esos umbrales íntegros.
 - **Significado**: Organizaciones autorizadas para reclutar, capacitar, apoyar
   y enviar misioneros. DOXA trabaja con las agencias enviadoras pero no las
   reemplaza.
-- **Ejemplo**: "Cada departamento de misiones afiliado a la World Assemblies
-  of God Fellowship (129 agencias enviadoras diferentes a partir de 2026) es
+- **Ejemplo**: "Cada departamento de misiones afiliado a la Fraternidad Mundial
+  de las Asambleas de Dios (129 agencias enviadoras diferentes a partir de 2026) es
   automáticamente un socio de DOXA." (página Acerca de)
 - **Por qué importa**: Un término técnico en las estructuras de misión. Los
   traductores deben usar el equivalente local establecido si existe uno.
@@ -511,10 +518,10 @@ preservar esos umbrales íntegros.
 
 ### Nuestro regalo para Jesús
 
-- **Significado**: La metáfora de encuadre de la misión — involucrar a cada
-  grupo de personas es el regalo colectivo de adoración de la iglesia a Jesús.
-- **Ejemplo**: "Nuestro regalo para Jesús: Involucrar a todos los grupos de
-  personas para 2033"
+- **Significado**: La metáfora de encuadre de la misión — comprometer a cada
+  grupo étnico es el regalo colectivo de adoración de la iglesia a Jesús.
+- **Ejemplo**: "Nuestro regalo para Jesús: Comprometer a todos los grupos
+  étnicos para 2033"
   (página de inicio)
 - **Por qué importa**: Un marco motivacional y de adoración. Debe sentirse
   sacrificial y como una ofrenda, no transaccional.
@@ -525,11 +532,11 @@ preservar esos umbrales íntegros.
 
 ---
 
-### Prioridad: "Involucrar a todos los grupos de personas no comprometidas para el año 2033"
+### Prioridad: "Comprometer a todos los grupos étnicos no comprometidos para el año 2033"
 
 - **Significado**: El enfoque estratégico medible y con límite de tiempo de
   Doxa.Life.
-- **Ejemplo**: "Involucrar a todos los grupos de personas no comprometidas para
+- **Ejemplo**: "Comprometer a todos los grupos étnicos no comprometidos para
   el año 2033" (página de Visión)
 - **Por qué importa**: "Prioridad" señala que este es el objetivo estratégico
   *más importante*, no uno entre muchos. La fecha límite de 2033 debe
@@ -626,7 +633,7 @@ preservar esos umbrales íntegros.
 
 ### Culturalmente apropiado y localmente relevante
 
-- **Significado**: Uno de los tres criterios para que un grupo de personas sea
+- **Significado**: Uno de los tres criterios para que un grupo étnico sea
   considerado "comprometido" — que el trabajo del evangelio se adapte a la
   cultura y el idioma del pueblo.
 - **Ejemplo**: "El trabajo ocurre de maneras culturalmente apropiadas y
@@ -716,24 +723,23 @@ preservar esos umbrales íntegros.
 
 ---
 
-### World Assemblies of God Fellowship (WAGF)
+### Fraternidad Mundial de las Asambleas de Dios (FMAD)
 
 - **Significado**: La fraternidad mundial que fundó y administra Doxa.Life.
   Comprende 129 agencias enviadoras afiliadas (a partir de 2026).
-- **Ejemplo**: "DOXA fue fundado y es administrado por la World Assemblies of
-  God Fellowship (WAGF)" (página Acerca de)
-- **Por qué importa**: Es un nombre propio — no traducir. Añadir una breve
-  frase explicativa si es necesario ("Fraternidad Mundial de las Asambleas de
-  Dios"). La sigla WAGF debe mantenerse consistente en todo el sitio.
+- **Ejemplo**: "DOXA fue fundado y es administrado por la Fraternidad Mundial
+  de las Asambleas de Dios (FMAD)" (página Acerca de)
+- **Por qué importa**: Usar la forma española establecida y mantener la sigla
+  FMAD de manera consistente en todo el sitio.
 
 ---
 
-### Comisión de Misiones de WAGF
+### Comisión de Misiones de la FMAD
 
-- **Significado**: El organismo de supervisión dentro de WAGF que nombra y
+- **Significado**: El organismo de supervisión dentro de la FMAD que nombra y
   supervisa el liderazgo de Doxa.Life.
 - **Ejemplo**: "Supervisado por el Equipo de Liderazgo de la Comisión de
-  Misiones de WAGF" (Acerca de)
+  Misiones de la FMAD" (Acerca de)
 - **Por qué importa**: Es un nombre institucional propio; no traducir.
 
 ---
@@ -741,7 +747,7 @@ preservar esos umbrales íntegros.
 ### Sending Summit Declaration
 
 - **Significado**: La declaración fundacional firmada en Lake Geneva, Minnesota,
-  el 25 de septiembre de 2025, en la que las agencias afiliadas a WAGF se
+  el 25 de septiembre de 2025, en la que las agencias afiliadas a la FMAD se
   comprometieron con la asociación DOXA.
 - **Ejemplo**: "SENDING SUMMIT DECLARATION" (encabezado de la página Acerca de)
 - **Por qué importa**: Es el nombre propio de un documento; mantener tal cual
@@ -764,7 +770,7 @@ preservar esos umbrales íntegros.
 
 ### Declaración de Fe
 
-- **Significado**: El resumen doctrinal de las convicciones de WAGF, que
+- **Significado**: El resumen doctrinal de las convicciones de la FMAD, que
   aparece en doxa.life/about/statement-of-faith.
 - **Por qué importa**: Usar el término eclesiástico establecido para
   "declaración doctrinal" o "confesión de fe" en el idioma de destino. Evitar
@@ -774,7 +780,7 @@ preservar esos umbrales íntegros.
 
 ### Pentecostal
 
-- **Significado**: La tradición y distinción teológica de WAGF/Asambleas de
+- **Significado**: La tradición y distinción teológica de la FMAD / Asambleas de
   Dios, tal como se establece en la introducción de la Declaración de Fe.
 - **Ejemplo**: "La verdad aquí expuesta se considera esencial para un
   ministerio verdaderamente Pentecostal." (Declaración de Fe)
@@ -819,18 +825,18 @@ fundamental para la usabilidad.
 | **Orar** | Navegación principal + título de página + paso de acción | Mantener corto; modo imperativo |
 | **Adoptar** | Navegación principal + título de página | Ver entrada "Adoptar" — evitar lenguaje de adopción de niños |
 | **Involúcrate** | Llamada a la acción de la página de inicio | Sentido activo/misionero; no "interactúa" |
-| **Investigar** | Navegación principal | Herramienta "Busca un PNANC" — usar palabra para "buscar/explorar" |
+| **Investigar** | Navegación principal | Herramienta "Busca un GENANC" — usar palabra para "buscar/explorar" |
 | **Acerca de** | Navegación principal | "Sobre nosotros" estándar — usar equivalente local natural |
 | **Recursos** | Submenú de Acerca de | Herramientas/materiales ministeriales — no "recursos financieros" |
 | **Definiciones** | Submenú de Acerca de | Página de glosario/definiciones |
 | **Visión** | Submenú de Acerca de | La página de visión |
 | **Declaración de Fe** | Submenú de Acerca de | Declaración doctrinal |
 | **Contáctenos** | Navegación/pie de página | Etiqueta de contacto estándar |
-| **Elige un grupo de personas** | CTAs de Orar y Adoptar | Selección intencional, no aleatoria; enfatizar el compromiso continuo |
+| **Elige un grupo étnico** | CTAs de Orar y Adoptar | Selección intencional, no aleatoria; enfatizar el compromiso continuo |
 | **Regístrate** | Paso 2 de Orar | Suscribirse/registrarse para los puntos de oración diarios |
 | **Guía de oración diaria** | Página de Orar | El recurso devocional por correo electrónico |
 | **Cobertura en oración las 24 horas** | Orar y Adoptar | Ver entrada completa arriba |
-| **Meta de Adopción / Estado Actual** | Estadísticas de la página de Adoptar | Progreso hacia la adopción de los 2.085 PNANCs |
+| **Meta de Adopción / Estado Actual** | Estadísticas de la página de Adoptar | Progreso hacia la adopción de los 2.085 GENANC |
 | **Cómo Funciona la Adopción** | Página de Adoptar | Encabezado de sección paso a paso |
 | **Por qué importa la adopción** | Página de Adoptar | Encabezado de sección motivacional |
 | **Por qué importa la oración** | Página de Orar | Encabezado de sección motivacional |
@@ -845,13 +851,13 @@ ejemplos específicos del sitio:
 
 | Término clave | Sección |
 |--------------|---------|
-| Grupo de personas | §1 Terminología de grupos de personas |
-| Grupo de personas no comprometido | §1 Terminología de grupos de personas |
-| Grupo de personas no alcanzado | §1 Terminología de grupos de personas |
-| Grupo de personas poco comprometido | §1 Terminología de grupos de personas |
-| Grupo fronterizo | §1 Terminología de grupos de personas |
-| Adoptar un grupo de personas no comprometido | §4 Adopción y movilización |
-| Orar (por un grupo específico) | §3 Oración e intercesión + §4 |
+| Grupo étnico | §1 Terminología de grupos étnicos |
+| Grupo étnico no comprometido | §1 Terminología de grupos étnicos |
+| Grupo étnico no alcanzado | §1 Terminología de grupos étnicos |
+| Grupo étnico poco comprometido | §1 Terminología de grupos étnicos |
+| Grupo fronterizo | §1 Terminología de grupos étnicos |
+| Adoptar un grupo étnico no comprometido | §4 Adopción y movilización |
+| Orar (por un grupo étnico específico) | §3 Oración e intercesión + §4 |
 | Movimientos de plantación de iglesias | §2 Lenguaje de compromiso y misión |
 | Oración diaria | §3 Oración e intercesión |
 | Compromiso con el evangelio | §2 Lenguaje de compromiso y misión |
